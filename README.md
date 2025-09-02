@@ -1,29 +1,5 @@
-# vuestagram
+#Vuestagram
 
-This template should help get you started developing with Vue 3 in Vite.
+Vuestagram을 개발 했습니다.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+사용자가 이미지를 업로드시 필터 효과와 더불어 글작성 기능을 추가하여 게시 하였습니다.
